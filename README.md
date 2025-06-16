@@ -15,9 +15,6 @@ My technical foundation spans across key domains like:
 - **Problem Solving & Algorithms**  
 
 ## 🧠 Competitive Programming
-
-I regularly solve problems to improve logical thinking and coding efficiency. Here’s a snapshot of my progress:
-
 ### 🟡 LeetCode
 - ✅ **500+ problems solved**
 - 🔗 [My LeetCode Profile](https://leetcode.com/2005arun)
