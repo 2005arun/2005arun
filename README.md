@@ -17,25 +17,19 @@ My technical foundation spans across key domains like:
 ## 🧠 Competitive Programming
 ### 🟡 LeetCode
 - ✅ **500+ problems solved**
-- 🔗 [My LeetCode Profile](https://leetcode.com/2005arun)
-
-<img src="https://your-image-link.com/leetcode_stats.png" alt="LeetCode Stats" width="600"/>
+- 🔗 [Leetcode](https://leetcode.com/2005arun)
 
 ---
 
 ### 🔵 Codeforces
 - 🎖️ Achieved a **Specialist** rating (or current rating)
 - ⏱️ Focused on contests, fast I/O, and CP tricks
-- 🔗 [My Codeforces Profile](https://codeforces.com/profile/arun_2005)
-
-<img src="https://your-image-link.com/codeforces_rating.png" alt="Codeforces Rating" width="600"/>
+- 🔗 [Codeforces](https://codeforces.com/profile/arun_2005)
 
 ---
 
 ### 🟠 CodeChef
 - 🌟 **3★ Coder**
-- 🔗 [My CodeChef Profile](https://www.codechef.com/users/arunrs2023aids)
-
-<img src="https://your-image-link.com/codechef_profile.png" alt="CodeChef Profile" width="600"/>
+- 🔗 [CodeChef](https://www.codechef.com/users/arunrs2023aids)
 
 ---
