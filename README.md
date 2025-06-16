@@ -1,6 +1,6 @@
 ## 🧑‍💻 BIO
 
-I'm a passionate and curious Computer Science student from **Sri Eshwar College of Engineering**, with a strong interest in **software development**, **competitive programming**, and **core computer science fundamentals**.
+I'm a passionate and curious student from **Sri Eshwar College of Engineering**, with a strong interest in **software development**, **competitive programming**, and **core computer science fundamentals**.
 
 I enjoy building useful tools and systems, especially those that solve real-world problems. My academic and personal projects reflect my interest in **efficient system design**, **automation**, and **developer productivity**.
 
