@@ -1,16 +1,16 @@
-## Hi there 👋
-welcome
-<!--
-**2005arun/2005arun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 BIO
 
-Here are some ideas to get you started:
+I'm a passionate and curious Computer Science student from **Sri Eshwar College of Engineering**, with a strong interest in **software development**, **competitive programming**, and **core computer science fundamentals**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building useful tools and systems, especially those that solve real-world problems. My academic and personal projects reflect my interest in **efficient system design**, **automation**, and **developer productivity**.
+
+I'm also an enthusiastic learner in the field of **Artificial Intelligence** and **Machine Learning**. I'm fascinated by how machines can learn, make decisions, and solve complex problems—just like humans. I have been exploring:
+
+My technical foundation spans across key domains like:
+
+- **Operating Systems** 
+- **Object-Oriented Programming (OOPs)** 
+- **Database Management Systems (DBMS)** 
+- **Computer Networks** 
+- **Problem Solving & Algorithms**  
+
