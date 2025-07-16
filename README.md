@@ -12,7 +12,8 @@ My technical foundation spans across key domains like:
 - **Object-Oriented Programming (OOPs)** 
 - **Database Management Systems (DBMS)** 
 - **Computer Networks** 
-- **Problem Solving & Algorithms**  
+- **Problem Solving & Algorithms**
+- **Cloud Computing**
 
 ## 🧠 Competitive Programming
 ### 🟡 LeetCode
