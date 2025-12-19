@@ -28,9 +28,3 @@ My technical foundation spans across key domains like:
 - 🔗 [Codeforces](https://codeforces.com/profile/arun_2005)
 
 ---
-
-### 🟠 CodeChef
-- 🌟 **3★ Coder**
-- 🔗 [CodeChef](https://www.codechef.com/users/arunrs2023aids)
-
----
