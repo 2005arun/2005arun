@@ -1,30 +1,70 @@
-## 🧑‍💻 BIO
+# Hi, I'm Arun R S 👋
 
-I'm a passionate and curious student from **Sri Eshwar College of Engineering**, with a strong interest in **software development**, **competitive programming**, and **core computer science fundamentals**.
+### Backend AI Engineer | AI & Data Science | Full-Stack Developer
 
-I enjoy building useful tools and systems, especially those that solve real-world problems. My academic and personal projects reflect my interest in **efficient system design**, **automation**, and **developer productivity**.
+I'm a B.Tech Artificial Intelligence and Data Science student passionate about
+building scalable backend systems and AI-powered applications.
 
-I'm also an enthusiastic learner in the field of **Artificial Intelligence** and **Machine Learning**. I'm fascinated by how machines can learn, make decisions, and solve complex problems—just like humans. I have been exploring:
+## 🚀 About Me
 
-My technical foundation spans across key domains like:
+- 🎓 B.Tech AI & Data Science
+- 🤖 Interested in Generative AI and LLM applications
+- 💻 Backend development with Node.js, Express.js and FastAPI
+- 🗄️ PostgreSQL, MongoDB, Redis
+- ☁️ AWS, Docker and cloud deployment
+- 🧠 Machine Learning and Data Science
+- ⚙️ Interested in System Design and scalable architectures
 
-- **Operating Systems** 
-- **Object-Oriented Programming (OOPs)** 
-- **Database Management Systems (DBMS)** 
-- **Computer Networks** 
-- **Problem Solving & Algorithms**
-- **Cloud Computing**
+## 🛠️ Tech Stack
 
-## 🧠 Competitive Programming
-### 🟡 LeetCode
-- ✅ **500+ problems solved**
-- 🔗 [Leetcode](https://leetcode.com/2005arun)
+### Languages
+Python • C++ • JavaScript • C • Java
 
----
+### Backend
+Node.js • Express.js • FastAPI • REST APIs • JWT • OAuth
 
-### 🔵 Codeforces
-- 🎖️ Achieved a **Specialist** rating (or current rating)
-- ⏱️ Focused on contests, fast I/O, and CP tricks
-- 🔗 [Codeforces](https://codeforces.com/profile/arun_2005)
+### AI / ML
+Python • Scikit-learn • LangGraph • LLMs • NLP
 
----
+### Databases
+PostgreSQL • MongoDB • Redis • MySQL
+
+### Cloud & DevOps
+AWS • Docker • Git • GitHub
+
+## 🚀 Featured Projects
+
+### 🤖 AI-Powered Data Analyst
+AI application that allows users to upload CSV files and analyze
+their data using natural language.
+
+**Tech:** React, FastAPI, Pandas, DuckDB, Groq LLM
+
+### 🎬 CineMovie
+Distributed movie ticket booking platform built using microservices.
+
+**Tech:** Node.js, Express.js, PostgreSQL, Redis, RabbitMQ, Docker
+
+### 🌐 AutoSiteGen
+Multi-agent AI system that generates React websites from natural-language prompts.
+
+**Tech:** Python, LangGraph, FastAPI, React, LLMs
+
+### ✅ TaskFlow
+Full-stack multi-user task management system with authentication,
+Kanban workflow and analytics.
+
+**Tech:** React, Node.js, Express.js, PostgreSQL
+
+## 🏆 Achievements
+
+- ⭐ LeetCode Knight
+- 🥈 2nd Prize — Coding Contest
+- 🏅 NPTEL HCI — Elite + Gold (94%)
+- 🏆 Participated in multiple hackathons
+
+## 📫 Connect With Me
+
+- LinkedIn: ...
+- Portfolio: ...
+- Email: ...
