@@ -11,8 +11,7 @@ building scalable backend systems and AI-powered applications.
 - 🤖 Interested in Generative AI and LLM applications
 - 💻 Backend development with Node.js, Express.js and FastAPI
 - 🗄️ PostgreSQL, MongoDB, Redis
-- ☁️ AWS, Docker and cloud deployment
-- 🧠 Machine Learning and Data Science
+- ☁️ Docker and cloud deployment
 - ⚙️ Interested in System Design and scalable architectures
 
 ## 🛠️ Tech Stack
@@ -24,7 +23,7 @@ Python • C++ • JavaScript • C • Java
 Node.js • Express.js • FastAPI • REST APIs • JWT • OAuth
 
 ### AI / ML
-Python • Scikit-learn • LangGraph • LLMs • NLP
+Python • Langchain • LangGraph • LLMs • NLP
 
 ### Databases
 PostgreSQL • MongoDB • Redis • MySQL
@@ -33,12 +32,6 @@ PostgreSQL • MongoDB • Redis • MySQL
 AWS • Docker • Git • GitHub
 
 ## 🚀 Featured Projects
-
-### 🤖 AI-Powered Data Analyst
-AI application that allows users to upload CSV files and analyze
-their data using natural language.
-
-**Tech:** React, FastAPI, Pandas, DuckDB, Groq LLM
 
 ### 🎬 CineMovie
 Distributed movie ticket booking platform built using microservices.
@@ -66,5 +59,5 @@ Kanban workflow and analytics.
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/arun-r-s19102005
-- Portfolio: arun-portfolio-github-io.vercel.app 
+- Portfolio: https://arun-portfolio-github-io.vercel.app
 - Email: arunramamoorthi05@gmail.com
