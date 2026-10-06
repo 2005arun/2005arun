@@ -65,6 +65,6 @@ Kanban workflow and analytics.
 
 ## 📫 Connect With Me
 
-- LinkedIn: ...
-- Portfolio: ...
-- Email: ...
+- LinkedIn: www.linkedin.com/in/arun-r-s19102005
+- Portfolio: arun-portfolio-github-io.vercel.app 
+- Email: arunramamoorthi05@gmail.com
